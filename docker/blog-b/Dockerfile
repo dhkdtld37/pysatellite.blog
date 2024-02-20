@@ -9,7 +9,7 @@ COPY blog-pull-cronjob /etc/cron.d/
 RUN crontab /etc/cron.d/blog-pull-cronjob
 
 RUN rm -rf /var/www/html
-RUN git clone --branch tomsawyer https://github.com/pySatellite/pysatellite.blog.git /var/www/html
+RUN git clone --branch 24022.4/tom https://github.com/dhkdtld37/pysatellite.blog.git /var/www/html
 COPY pull.sh /var/www/html
 
 
