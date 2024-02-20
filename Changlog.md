@@ -29,7 +29,9 @@
 - [ ] fix files
 
 ### 240220.4 / beccky
-- [ ] vix index.html
+- [ ] fix index.html
 
+### 24022.4 / tom
+- [ ] fix index.html
 
 
