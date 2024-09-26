@@ -11,3 +11,19 @@
 
 ### 240216.4
 - [ ] git
+
+### 240216.1
+- [ ] lb
+
+
+### 240219.1
+- [ ] auto LB by compose
+
+### 240220.1
+- [ ] manual LB
+
+### 240220.2 / lim
+- [ ] fork & PR
+
+### 240220.3 / lim-connect
+- [ ] fix files
